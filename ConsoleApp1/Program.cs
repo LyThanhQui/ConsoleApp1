@@ -2,12 +2,13 @@
 
 namespace ConsoleApp1
 {
-    class Program
+    class Program : demogit
     {
         static void Main(string[] args)
         {
+            demogit v = new demogit();
             Console.WriteLine("Hello World!");
-            Console.WriteLine("I'm Qui");
+            Console.WriteLine("I'm: ", v.x);
         }
     }
 }
