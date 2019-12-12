@@ -9,6 +9,7 @@ namespace ConsoleApp1
             demogit v = new demogit();
             Console.WriteLine("Hello World!");
             Console.WriteLine("I'm: ", v.x);
+            Console.WriteLine("My code: ", v.y);
         }
     }
 }
