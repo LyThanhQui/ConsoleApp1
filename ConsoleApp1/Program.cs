@@ -10,6 +10,8 @@ namespace ConsoleApp1
             Console.WriteLine("Hello guys guys!");
             Console.WriteLine("I'm: ", v.x);
             Console.WriteLine("My code: ", v.y);
+            Console.WriteLine("My code: ", v.y);
+            Console.WriteLine("My code: ", v.y);
         }
     }
 }
